@@ -1,3 +1,9 @@
+# Introduction
+
+Currently, movements such as the Black Lives Matter or #DefundthePolice are bringing much needed energy and criticism towards the relationship between law enforcement and the American public. The tragic deaths of George Floyd, Breanna Taylor, and thousands of others has sparked public outrage and a demand for justice. As a UC Berkeley student, I was inspired by these movements and I feel that it is incredibly important to use data to highlight the impact of policing in different regions accessing the United States. Therefore, for my individual project, I chose to investigate whether minorities/people of color are subject to harsher and more frequent policing stops in major cities, in typically conservative states or liberal states. To clarify, the terms conservative or liberal are related to their state's political ideologies. Using data from the Stanford Open Policing Project, I analyzed the police stops in four major American cities: New Orleans, Pittsburgh, Charlotte, and San Francisco. The crux of this project is to understand whether there is a strong correlation between policing, regional political ideology, and victim race and gender.
+
+I expected to find a strong correlation between increased policing and racial profiling in conservative regions, compared to liberal regions. I am assuming that political ideology is related to increased police brutality. Additionally, I am assuming that data from the largest cities in a state, is representative of the entire state - which may not be accurate.
+
 # Important Links/Information about Police Protests
 - [https://www.aclu.org/issues/criminal-law-reform/reforming-police/police-excessive-force]
 - [https://www.nytimes.com/topic/subject/police-brutality-misconduct-and-shootings]

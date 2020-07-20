@@ -4,6 +4,12 @@ Currently, movements such as the Black Lives Matter or #DefundthePolice are brin
 
 I expected to find a strong correlation between increased policing and racial profiling in conservative regions, compared to liberal regions. I am assuming that political ideology is related to increased police brutality. Additionally, I am assuming that data from the largest cities in a state, is representative of the entire state - which may not be accurate.
 
+# Mission
+
+This website is for educational purposes only. It highlights a number of efforts being made to improve the police and justice system across the United States. It will be home to shared blog posts, educational content, and personal research endeavors surroduing policing in the United States. 
+
+# Data
+
 # Important Links/Information about Police Protests
 - [https://www.aclu.org/issues/criminal-law-reform/reforming-police/police-excessive-force]
 - [https://www.nytimes.com/topic/subject/police-brutality-misconduct-and-shootings]

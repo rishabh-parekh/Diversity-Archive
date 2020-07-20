@@ -9,6 +9,8 @@ I expected to find a strong correlation between increased policing and racial pr
 This website is for educational purposes only. It highlights a number of efforts being made to improve the police and justice system across the United States. It will be home to shared blog posts, educational content, and personal research endeavors surroduing policing in the United States. 
 
 # Data
+The main data sources for my personal research project is the Stanford Open Policing Project. 
+[https://openpolicing.stanford.edu/]
 
 # Important Links/Information about Police Protests
 - [https://www.aclu.org/issues/criminal-law-reform/reforming-police/police-excessive-force]

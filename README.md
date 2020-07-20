@@ -4,4 +4,4 @@
 
 # Important Images
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fus-news%2Fcolin-kaepernick-reveals-specific-police-shooting-led-him-kneel-n1044306&psig=AOvVaw2VAbKu4kQtWg2w-CeG1TZ-&ust=1595306984139000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCv6eOD2-oCFQAAAAAdAAAAABAD)
+![kaep](https://user-images.githubusercontent.com/11319105/87900859-8444f800-ca23-11ea-8b3d-daba98419aa8.jpg)

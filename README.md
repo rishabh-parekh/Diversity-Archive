@@ -54,6 +54,8 @@ Currently, movements such as the Black Lives Matter or #DefundthePolice are brin
 - Text “FLOYD” To 55156
 - Vote in local elections
 
+# Campaigns to Follow
+- #MorethananAthelete - LeBron James 
 
 # Data Project
 

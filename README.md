@@ -1,3 +1,8 @@
+
+# Overview
+
+Currently, movements such as the Black Lives Matter or #DefundthePolice are bringing much needed energy and criticism towards the relationship between law enforcement and the American public. The tragic deaths of George Floyd, Breanna Taylor, and thousands of others has sparked public outrage and a demand for justice. As a UC Berkeley student, I was inspired by these movements and I feel that it is incredibly important to use data to highlight the impact of policing in different regions accessing the United States. 
+
 # Mission
 
 This website is for educational purposes. It is intended to serve as a archive of media, news, events, and data project surrouding the Black Lives Matter movement. Additionally, this archive is designed bringing attention to minority businesses and related resources. It serves as  of efforts being made to improve the police and justice system across the United States. 
@@ -20,10 +25,6 @@ This website is for educational purposes. It is intended to serve as a archive o
 <img src="https://user-images.githubusercontent.com/11319105/87901263-983d2980-ca24-11ea-944f-655a734ffd2c.jpg" width=250 alight=center></image>
 <img src="https://user-images.githubusercontent.com/11319105/87901340-ca4e8b80-ca24-11ea-8726-c9bac0636c81.jpeg" width=250 alight=center></image>
 <img src="https://user-images.githubusercontent.com/11319105/87901409-f1a55880-ca24-11ea-8c36-a46dae3e3cfc.jpeg" width=250 alight=center></image>
-
-# Introduction
-
-Currently, movements such as the Black Lives Matter or #DefundthePolice are bringing much needed energy and criticism towards the relationship between law enforcement and the American public. The tragic deaths of George Floyd, Breanna Taylor, and thousands of others has sparked public outrage and a demand for justice. As a UC Berkeley student, I was inspired by these movements and I feel that it is incredibly important to use data to highlight the impact of policing in different regions accessing the United States. 
 
 # How to Help
 

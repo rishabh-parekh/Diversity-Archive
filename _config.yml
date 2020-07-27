@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-gem 'jekyll-feed'
 plugins:
   - jekyll-feed
 bundle install

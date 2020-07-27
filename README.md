@@ -14,7 +14,6 @@ This website is for educational purposes. It is intended to serve as a archive o
 ## Recent News
 - https://slate.com/news-and-politics/2020/07/portland-dhs-federal-police-history.html
 
-- 
 # Images
 <img src="https://user-images.githubusercontent.com/11319105/87901083-164d0080-ca24-11ea-9650-b727ec4c0731.jpg" width=250 alight=center></image>
 <img src="https://user-images.githubusercontent.com/11319105/87901216-7cd21e80-ca24-11ea-8130-ad5318d92d87.jpeg" width=250 alight=center></image>

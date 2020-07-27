@@ -17,11 +17,11 @@ This website is for educational purposes. It is intended to serve as a archive o
 ## Upcoming Events
 - 
 # Images
-<img src="https://user-images.githubusercontent.com/11319105/87901083-164d0080-ca24-11ea-9650-b727ec4c0731.jpg" width=250 alight=center>dh150pic2</image>
-<img src="https://user-images.githubusercontent.com/11319105/87901216-7cd21e80-ca24-11ea-8130-ad5318d92d87.jpeg" width=250 alight=center>dh150pic3</image>
-<img src="https://user-images.githubusercontent.com/11319105/87901263-983d2980-ca24-11ea-944f-655a734ffd2c.jpg" width=250 alight=center>kaep</image>
-<img src="https://user-images.githubusercontent.com/11319105/87901340-ca4e8b80-ca24-11ea-8726-c9bac0636c81.jpeg" width=250 alight=center>dh150final4</image>
-<img src="https://user-images.githubusercontent.com/11319105/87901409-f1a55880-ca24-11ea-8c36-a46dae3e3cfc.jpeg" width=250 alight=center>dh150pic5</image>
+<img src="https://user-images.githubusercontent.com/11319105/87901083-164d0080-ca24-11ea-9650-b727ec4c0731.jpg" width=250 alight=center></image>
+<img src="https://user-images.githubusercontent.com/11319105/87901216-7cd21e80-ca24-11ea-8130-ad5318d92d87.jpeg" width=250 alight=center></image>
+<img src="https://user-images.githubusercontent.com/11319105/87901263-983d2980-ca24-11ea-944f-655a734ffd2c.jpg" width=250 alight=center></image>
+<img src="https://user-images.githubusercontent.com/11319105/87901340-ca4e8b80-ca24-11ea-8726-c9bac0636c81.jpeg" width=250 alight=center></image>
+<img src="https://user-images.githubusercontent.com/11319105/87901409-f1a55880-ca24-11ea-8c36-a46dae3e3cfc.jpeg" width=250 alight=center></image>
 
 # Introduction
 

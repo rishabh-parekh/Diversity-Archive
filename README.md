@@ -40,9 +40,16 @@ I expected to find a strong correlation between increased policing and racial pr
   - Organize diversity centric conversations at universities and clubs/extracirriculars
 
 ## As a Educator
+- Participate in the Week of Action (Feb. 4th - 8th)
+- Compile teaching materials for the week of action and beyond. Visit the Black Lives Matter at School website for lesson plans successfully implemented in Seattle schools, or find resources at DC Educators for Social Justice website
+- Seek support from the community. Reach out to parents, community members and even Black Lives Matter chapters who can enlighten educators about the most pressing issues in your community
+- Order Teaching for Black Lives and use it as a guide in the classroom
 
-## As an Engineer
-
+## As an Employee in Technology Industry
+- Build websites and online platforms for minority and black owned busineses
+- Hire minority and black employees
+- Brainstorm ideas to recruiting practices more inclusive
+- Participate in improving diversity training platforms
 
 
 # Data

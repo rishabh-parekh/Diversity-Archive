@@ -34,6 +34,9 @@ I expected to find a strong correlation between increased policing and racial pr
 The main data sources for my personal research project is the Stanford Open Policing Project. 
 [https://openpolicing.stanford.edu/]
 
+# Graphs
+
+
 # Important Links/Information about Police Protests
 - [https://www.aclu.org/issues/criminal-law-reform/reforming-police/police-excessive-force]
 - [https://www.nytimes.com/topic/subject/police-brutality-misconduct-and-shootings]

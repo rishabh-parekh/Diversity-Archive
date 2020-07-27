@@ -57,7 +57,7 @@ Currently, movements such as the Black Lives Matter or #DefundthePolice are brin
 # Campaigns to Follow
 - #BlackLivesMatter
 - #DefundthePolice
-- #MorethananAthlete - LeBron James 
+- #MorethananAthlete
 ![dhpic4](https://user-images.githubusercontent.com/11319105/88599726-70f4e680-d03a-11ea-9aaf-5b85e1271b74.jpeg)
 
 # Data Project

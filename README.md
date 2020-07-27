@@ -60,7 +60,7 @@ This website is for educational purposes. It is intended to serve as a archive o
 - #BlackLivesMatter
 - #DefundthePolice
 - #MorethananAthlete
-![dhpic4](https://user-images.githubusercontent.com/11319105/88599726-70f4e680-d03a-11ea-9aaf-5b85e1271b74.jpeg)
+<img src="https://user-images.githubusercontent.com/11319105/88600446-41df7480-d03c-11ea-8f74-68c5961300c0.jpeg" width=250 alight=center></image>
 
 # Data Project
 

@@ -35,6 +35,7 @@ The main data sources for my personal research project is the Stanford Open Poli
 [https://openpolicing.stanford.edu/]
 
 # Graphs
+<img width="990" alt="blmpic2" src="https://user-images.githubusercontent.com/11319105/88598511-6dac2b80-d037-11ea-916e-cb108f70d9ff.png">
 <img width="997" alt="blmpic3" src="https://user-images.githubusercontent.com/11319105/88598466-54a37a80-d037-11ea-81bb-57b4eb09d543.png">
 
 # Important Links/Information about Police Protests

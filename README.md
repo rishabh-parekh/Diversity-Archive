@@ -47,7 +47,7 @@ I expected to find a strong correlation between increased policing and racial pr
 - Text “FLOYD” To 55156
 - Vote in local elections
 
-## As an Employee in Technology Industry
+## As an Industry Professional
 - Build websites and online platforms for minority and black owned busineses
 - Hire minority and black employees
 - Brainstorm ideas to recruiting practices more inclusive

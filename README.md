@@ -45,8 +45,8 @@ I expected to find a strong correlation between increased policing and racial pr
 - Seek support from the community. Reach out to parents, community members and even Black Lives Matter chapters who can enlighten educators about the most pressing issues in your community
 - Order Teaching for Black Lives and use it as a guide in the classroom
 - Text “JUSTICE” To 668366
-  - Text “FLOYD” To 55156
-  - Vote in local elections
+- Text “FLOYD” To 55156
+- Vote in local elections
 
 ## As an Employee in Technology Industry
 - Build websites and online platforms for minority and black owned busineses
@@ -54,8 +54,8 @@ I expected to find a strong correlation between increased policing and racial pr
 - Brainstorm ideas to recruiting practices more inclusive
 - Participate in improving diversity training platforms
 - Text “JUSTICE” To 668366
-  - Text “FLOYD” To 55156
-  - Vote in local elections
+- Text “FLOYD” To 55156
+- Vote in local elections
 
 
 # Data

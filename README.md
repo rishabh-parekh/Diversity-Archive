@@ -17,6 +17,7 @@ This website is for educational purposes. It is intended to serve as a archive o
 - https://www.nytimes.com/topic/subject/police-brutality-misconduct-and-shootings
 
 ## Recent News
+- https://www.nytimes.com/2020/07/26/us/protests-portland-seattle-trump.html
 - https://slate.com/news-and-politics/2020/07/portland-dhs-federal-police-history.html
 
 # Images

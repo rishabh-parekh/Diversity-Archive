@@ -74,6 +74,9 @@ The main data sources for my personal research project is the Stanford Open Poli
 <img width="1187" alt="blmpic1" src="https://user-images.githubusercontent.com/11319105/88598541-7e5ca180-d037-11ea-991c-57008eba5224.png">
 <img width="990" alt="blmpic2" src="https://user-images.githubusercontent.com/11319105/88598511-6dac2b80-d037-11ea-916e-cb108f70d9ff.png">
 <img width="997" alt="blmpic3" src="https://user-images.githubusercontent.com/11319105/88598466-54a37a80-d037-11ea-81bb-57b4eb09d543.png">
+<img width="990" alt="blmpic6" src="https://user-images.githubusercontent.com/11319105/88600177-933b3400-d03b-11ea-81c9-564bc7a66e41.png">
+<img width="992" alt="blmpic5" src="https://user-images.githubusercontent.com/11319105/88600183-9504f780-d03b-11ea-8a4c-6467c897e9e4.png">
+
 
 # Important Links/Information about Police Protests
 - https://www.aclu.org/issues/criminal-law-reform/reforming-police/police-excessive-force
